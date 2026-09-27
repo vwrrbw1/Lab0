@@ -3,5 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("Hello,world!\n");
+    printf("GGMU\n")
 }
