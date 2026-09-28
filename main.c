@@ -3,6 +3,6 @@
 int main()
 {
     // 已完成.
-    printf("Hello,world!\n");
+    printf("Hello from feature\n");
     printf("GGMU\n");
 }
