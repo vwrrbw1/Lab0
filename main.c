@@ -2,7 +2,7 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
+    // 已完成.
     printf("Hello,world!\n");
-    printf("GGMU\n")
+    printf("GGMU\n");
 }
